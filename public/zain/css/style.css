@@ -7881,7 +7881,7 @@ header {
 @media (max-width: 767.98px) {
   .about-section .author-img {
     display: block;
-    height: 500px; } }
+    height: 300px; } }
 
 .wrap {
   padding: 0; }
@@ -8213,7 +8213,7 @@ textarea.form-control {
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; }
+  background-position: center top; }
 
 .image-popup {
   cursor: -webkit-zoom-in;
